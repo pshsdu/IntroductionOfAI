@@ -8,7 +8,7 @@ from 'Image Style Transfer Using Convolutional Neural Networks'
 <img src = "./image/struct.png" width="50%">
 
 ### U-Net
-<img src = "./image/u_net.png" width="50%">
+<img src = "./image/u_net.png" width="70%">
 
 ### Output
 
