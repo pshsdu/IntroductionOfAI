@@ -11,8 +11,7 @@ from 'Image Style Transfer Using Convolutional Neural Networks'
 <img src = "./image/u_net.png" width="50%">
 
 ### Output
-<div class=pull-right>
-<p>
+<p float="left">
 <div class=pull-right>
 <img src = "./image/image.jpg" width="20%">
 <center>original image</center>
@@ -27,7 +26,8 @@ to
 <center>64 epoch output</center>
 </div>
 </p>
-</div>
+
+
 
 <p>
 <div class=pull-right>
