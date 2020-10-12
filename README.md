@@ -1,4 +1,4 @@
-## CLASS : IntroductionOfAI <br/> Term Project : Style Transfer using UNet
+## CLASS : IntroductionOfAI <br/> Term Project : Style Transfer using U-Net
 
 ### Style Transfer
 <img src = "./image/style transfer.png" width="50%">
