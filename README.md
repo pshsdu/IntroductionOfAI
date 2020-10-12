@@ -13,36 +13,14 @@ from 'Image Style Transfer Using Convolutional Neural Networks'
 ### Output
 
 <p float="left">
-<p>
-<div class=pull-right>
 <img src = "./image/image.jpg" width="20%">
-<center>original image</center>
-</div>
-</p>
-
-to 
-
-<p>
-<div class=pull-right>
+  to 
 <img src = "./image/64_output.png" width="20%">
-<center>64 epoch output</center>
-</div>
-</p>
 </p>
 
 
-<p>
-<div class=pull-right>
+<p float="left">
 <img src = "./image/image2.jpg" width="20%">
-<center>original image</center>
-</div>
-</p>
-
-to 
-
-<p>
-<div class=pull-right>
+  to 
 <img src = "./image/image2_64_output.png" width="20%">
-<center>64 epoch output</center>
-</div>
 </p>
